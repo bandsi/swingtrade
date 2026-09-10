@@ -1,4 +1,3 @@
-# Swing Trade ML Project
 # Machine Learning Swing Trading Model
 
 A quantitative trading research project that uses machine learning and technical market features to identify potential short-term swing trading opportunities in U.S. equities.
