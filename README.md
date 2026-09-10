@@ -54,7 +54,6 @@ Because financial data is time-dependent, the project is designed around chronol
 * Pandas
 * NumPy
 * XGBoost
-* scikit-learn
 * Finnhub API
 * Google Colab
 * Git / GitHub
